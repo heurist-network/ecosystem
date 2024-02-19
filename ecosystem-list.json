@@ -13,7 +13,8 @@
                 "title": "GitHub",
                 "url": "https://github.com"
             }
-        ]
+        ],
+        "tags": ["LLM API", "Model Creator", "AI Agent"]
     },
     {
         "title": "Imagine",
