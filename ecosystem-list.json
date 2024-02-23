@@ -3,49 +3,39 @@
         "title": "Heurist Search",
         "description": "AI-based search engine that unlocks the power of knowledge at unprecedented speeds.",
         "image": "heurist-search.png",
-        "url": "https://example.com",
+        "url": "https://search.heurist.ai",
         "links": [
             {
-                "title": "App",
-                "url": "https://example.com"
-            },
-            {
                 "title": "GitHub",
-                "url": "https://github.com"
+                "url": "https://github.com/heurist-network/gpt-search-web"
             }
         ],
-        "tags": ["LLM API", "Model Creator", "AI Agent"]
+        "tags": ["LLM API"]
     },
     {
         "title": "Imagine",
         "description": "Free image generator, hosting the best Stable Diffusion models.",
         "image": "imagine.png",
-        "url": "https://imagine.heurist.xyz",
+        "url": "https://imagine.heurist.ai",
         "links": [
-            {
-                "title": "App",
-                "url": "https://imagine.heurist.xyz"
-            },
             {
                 "title": "GitHub",
                 "url": "https://github.com/heurist-network/imagine"
             }
-        ]
+        ],
+        "tags": ["Image API"]
     },
     {
         "title": "Pondera",
         "description": "An open-source conversation assistant that makes the best language models available to everyone.",
         "image": "pondera.png",
-        "url": "https://pondera.heurist.xyz",
+        "url": "https://pondera.heurist.ai",
         "links": [
-            {
-                "title": "App",
-                "url": "https://pondera.heurist.xyz"
-            },
             {
                 "title": "GitHub",
                 "url": "https://github.com/heurist-network/pondera"
             }
-        ]
+        ],
+        "tags": ["LLM API"]
     }
 ]
