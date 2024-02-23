@@ -53,4 +53,4 @@ Prepare the following information for your project listing:
 Please include your project name in the PR title. In the description, briefly describe your project and how it integrates with Heurist's AI models.
 
 ## Review Process
-Our team will review your submission on a weekly basis. Once approved, your project will be listed in the [Heurist Ecosystem page](https://heurist.xyz/ecosystem)
+Our team will review your submission on a weekly basis. Once approved, your project will be listed in the [Heurist Ecosystem page](https://heurist.ai/ecosystem)
