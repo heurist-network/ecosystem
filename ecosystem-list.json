@@ -2,7 +2,7 @@
     {
         "title": "Heurist Search",
         "description": "AI-based search engine that unlocks the power of knowledge at unprecedented speeds.",
-        "image": "heurist-search.png",
+        "image": "https://raw.githubusercontent.com/heurist-network/ecosystem/main/logo/heurist-search.png",
         "url": "https://search.heurist.ai",
         "links": [
             {
@@ -15,7 +15,7 @@
     {
         "title": "Imagine",
         "description": "Free image generator, hosting the best Stable Diffusion models.",
-        "image": "imagine.png",
+        "image": "https://raw.githubusercontent.com/heurist-network/ecosystem/main/logo/heurist-imagine.png",
         "url": "https://imagine.heurist.ai",
         "links": [
             {
@@ -28,7 +28,7 @@
     {
         "title": "Pondera",
         "description": "An open-source conversation assistant that makes the best language models available to everyone.",
-        "image": "pondera.png",
+        "image": "https://raw.githubusercontent.com/heurist-network/ecosystem/main/logo/heurist-pondera.png",
         "url": "https://pondera.heurist.ai",
         "links": [
             {
